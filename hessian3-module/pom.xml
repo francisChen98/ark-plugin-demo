@@ -13,9 +13,9 @@
 
     <dependencies>
         <dependency>
-            <groupId>hessian</groupId>
+            <groupId>com.caucho</groupId>
             <artifactId>hessian</artifactId>
-            <version>3.2.0</version>
+            <version>3.1.5</version>
         </dependency>
     </dependencies>
 
@@ -37,7 +37,7 @@
                             <imported>
                                 <!-- configure class-level imported class -->
                                 <classes>
-                                    <class>com.alipay.sofa.demo.pojo.SamplePoJo</class>
+                                    <class>ocom.alipay.sofa.demo.pojo.SamplePoJ</class>
                                 </classes>
                             </imported>
 

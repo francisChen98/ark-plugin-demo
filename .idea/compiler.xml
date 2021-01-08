@@ -16,6 +16,7 @@
       <module name="hessian3-ark-plugin" target="1.5" />
       <module name="hessian4-ark-plugin" target="1.5" />
       <module name="pojo-ark-plugin" target="1.5" />
+      <module name="test" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
